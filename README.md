@@ -1,6 +1,6 @@
 ### Olá! eu sou a Marina Morais
 
-- 👩🏽‍💻 Estudando HTML, CSS e JavaScript
+- 👩🏽‍💻 Estudando HTML, CSS, JavaScript, Angular e React
 - 🙋🏽‍♀️ Pronouns: ela/dela she/her
 
 <div align="center">
